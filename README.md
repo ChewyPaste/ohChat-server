@@ -1,2 +1,5 @@
-#ohChat sever
-My generic fullstack chat application backend built with Postgre, Sequelize, and Express
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
